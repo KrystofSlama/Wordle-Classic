@@ -1,17 +1,50 @@
-# Wordle Classic! – Support Page
+# 🎮 Wordle Classic! – Official Support Page
 
-Thanks for playing **Wordle Classic!** 🎉  
-This page is here to help you with the app or collect feedback.
+Welcome to the support and info page for **Wordle Classic!**, the fun, minimalist word-guessing game inspired by the original Wordle – now with support for both **Czech 🇨🇿** and **English 🇬🇧**.
 
-## 🔍 About the Game
-Wordle Classic is a fun word-guessing game inspired by the original Wordle. Play in English or Czech, and challenge yourself daily!
+---
 
-## 💬 Feedback or Suggestions
-Found a bug? Want to suggest a new word?
+## 🧩 What is Wordle Classic?
 
-→ Open an issue [here](https://github.com/yourusername/wordle-support/issues)  
-or  
-→ Contact me at: your@email.com
+Wordle Classic is a clean and relaxing word game where your goal is to guess a hidden word within a limited number of attempts.
 
-## 📱 Version
-Current App Store version: **1.0**
+### 🔹 Features:
+- 📝 5-letter and 6-letter word modes  
+- 🌐 English and Czech word support  
+- ☀️ Dark & Light Mode support  
+- 🧠 Challenging but casual design  
+- 📤 Suggest your own words  
+- 🚫 No ads, no distractions
+
+---
+
+## ✍️ Suggest a Word / Report a Bug
+
+Got a word you want added? Found a word that shouldn’t be there?  
+We’d love to hear from you!
+
+**🗨️ Feedback options:**
+- Open an issue here on GitHub: [Create an Issue](https://github.com/yourusername/wordle-support/issues)
+- Or contact: **youremail@example.com**
+
+---
+
+## 📱 App Info
+
+- **App Name:** Wordle Classic!  
+- **Platform:** iOS  
+- **Version:** 1.0  
+- **Available on the App Store:** _Coming soon_
+
+---
+
+## 🛠️ Roadmap (Coming Soon)
+- Game Center support (achievements, scores)  
+- Daily challenge mode  
+- Kid-safe word filter  
+- Leaderboards  
+- Themes & customization
+
+---
+
+Thanks for playing, and keep guessing! 🎉  
