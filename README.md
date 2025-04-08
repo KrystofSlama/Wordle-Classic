@@ -9,12 +9,11 @@ Welcome to the support and info page for **Wordle Classic!**, the fun, minimalis
 Wordle Classic is a clean and relaxing word game where your goal is to guess a hidden word within a limited number of attempts.
 
 ### 🔹 Features:
-- 📝 5-letter and 6-letter word modes  
+- 📝 5-letter mode  
 - 🌐 English and Czech word support  
 - ☀️ Dark & Light Mode support  
 - 🧠 Challenging but casual design  
-- 📤 Suggest your own words  
-- 🚫 No ads, no distractions
+- 📤 Suggest your own words
 
 ---
 
@@ -25,7 +24,7 @@ We’d love to hear from you!
 
 **🗨️ Feedback options:**
 - Open an issue here on GitHub: [Create an Issue](https://github.com/yourusername/wordle-support/issues)
-- Or contact: **youremail@example.com**
+- Or contact: **krystof.slamacek@gmail.com**
 
 ---
 
@@ -39,9 +38,9 @@ We’d love to hear from you!
 ---
 
 ## 🛠️ Roadmap (Coming Soon)
-- Game Center support (achievements, scores)  
+- Game Center support (achievements, scores)
+- iPadOS, Android  
 - Daily challenge mode  
-- Kid-safe word filter  
 - Leaderboards  
 - Themes & customization
 
