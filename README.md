@@ -23,7 +23,7 @@ Got a word you want added? Found a word that shouldn’t be there?
 We’d love to hear from you!
 
 **🗨️ Feedback options:**
-- Open an issue here on GitHub: [Create an Issue](https://github.com/yourusername/wordle-support/issues)
+- Open an issue here on GitHub: [Create an Issue](https://github.com/krystofslama/wordle-support/issues)
 - Or contact: **krystof.slamacek@gmail.com**
 
 ---
