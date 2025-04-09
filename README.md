@@ -17,14 +17,22 @@ Wordle Classic is a clean and relaxing word game where your goal is to guess a h
 
 ---
 
+## 🛠️ Roadmap (Coming Soon)
+- Game Center support (achievements, scores)
+- iPadOS, Android  
+- Daily challenge mode  
+- Leaderboards  
+- Themes & customization
+- 
+---
+
 ## ✍️ Suggest a Word / Report a Bug
 
 Got a word you want added? Found a word that shouldn’t be there?  
 We’d love to hear from you!
 
 **🗨️ Feedback options:**
-- Open an issue here on GitHub: [Create an Issue](issues.html)
-- Or contact: **krystof.slamacek@gmail.com**
+- Open an issue here on GitHub: [Create an Issue](https://krystofslama.github.io/wordle-support/issues.html)
 
 ---
 
@@ -34,15 +42,6 @@ We’d love to hear from you!
 - **Platform:** iOS  
 - **Version:** 1.0  
 - **Available on the App Store:** _Coming soon_
-
----
-
-## 🛠️ Roadmap (Coming Soon)
-- Game Center support (achievements, scores)
-- iPadOS, Android  
-- Daily challenge mode  
-- Leaderboards  
-- Themes & customization
 
 ---
 
