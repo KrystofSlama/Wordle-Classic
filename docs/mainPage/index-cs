@@ -1,1 +1,136 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>🎮 Wordle Classic! – Oficiální stránka podpory</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      background-color: #f9f9f9;
+      margin: 0;
+      padding: 2rem;
+      max-width: 800px;
+      margin-left: auto;
+      margin-right: auto;
+      line-height: 1.6;
+      color: #333;
+    }
+
+    h1 {
+      font-size: 2.2rem;
+      margin-bottom: 0.5rem;
+    }
+
+    h2 {
+      font-size: 1.5rem;
+      margin-top: 2rem;
+    }
+
+    h3 {
+      font-size: 1.2rem;
+      margin-top: 1.5rem;
+    }
+
+    p {
+      font-size: 1.05rem;
+    }
+
+    ul {
+      padding-left: 1.5rem;
+    }
+
+    .button {
+      display: inline-block;
+      margin: 1rem 0;
+      padding: 0.75rem 1.5rem;
+      font-size: 1rem;
+      background-color: #1f883d;
+      color: white;
+      border: none;
+      border-radius: 8px;
+      text-decoration: none;
+      transition: background 0.2s ease-in-out;
+    }
+
+    .button:hover {
+      background-color: #157347;
+    }
+
+    footer {
+      margin-top: 4rem;
+      text-align: center;
+      font-size: 0.9rem;
+      color: #888;
+    }
+
+    hr {
+      margin: 2rem 0;
+      border: none;
+      border-top: 1px solid #ddd;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>🎮 Wordle Classic! – Oficiální stránka podpory</h1>
+
+  <p>Vítej na stránce podpory a informací pro <strong>Wordle Classic!</strong>, zábavnou a minimalistickou hru na hádání slov inspirovanou původním Wordlem – nyní s podporou jak <strong>češtiny 🇨🇿</strong>, tak <strong>angličtiny 🇬🇧</strong>.</p>
+
+  <hr>
+
+  <h2>🧩 Co je Wordle Classic?</h2>
+  <p>Wordle Classic je čistá a uklidňující slovní hra, ve které se snažíš uhodnout skryté slovo v omezeném počtu pokusů.</p>
+
+  <h3>🔹 Funkce:</h3>
+  <ul>
+    <li>📝 Mód pro 5písmenná slova</li>
+    <li>🌐 Podpora českých a anglických slov</li>
+    <li>☀️ Podpora světlého a tmavého režimu</li>
+    <li>🧠 Náročný, ale pohodový design</li>
+    <li>📤 Možnost navrhnout vlastní slova</li>
+  </ul>
+
+  <hr>
+
+  <h2>🛠️ Plánované novinky</h2>
+  <ul>
+    <li>Podpora Game Center (úspěchy, skóre)</li>
+    <li>Verze pro iPadOS, Android</li>
+    <li>Denní výzvy</li>
+    <li>Žebříčky</li>
+    <li>Témata a přizpůsobení</li>
+  </ul>
+
+  <hr>
+
+  <h2>✍️ Navrhni slovo / Nahlas chybu</h2>
+  <p>Máš slovo, které bys chtěl/a přidat? Narazil/a jsi na nevhodné nebo chybné slovo?<br>
+  Budeme rádi za tvou zpětnou vazbu!</p>
+
+  <p><strong>🗨️ Možnosti kontaktu:</strong></p>
+  <ul>
+    <li><a class="button" href="issues.html">📝 Odeslat zpětnou vazbu</a></li>
+  </ul>
+
+  <hr>
+
+  <h2>📱 Informace o aplikaci</h2>
+  <ul>
+    <li><strong>Název aplikace:</strong> Wordle Classic!</li>
+    <li><strong>Platforma:</strong> iOS</li>
+    <li><strong>Verze:</strong> 1.0</li>
+    <li><strong>Dostupná v App Storu:</strong> <em>Již brzy</em></li>
+    <li><a href="privacy/privacy.html">📝 Zásady ochrany osobních údajů</a></li>
+  </ul>
+
+  <hr>
+
+  <footer>
+    Díky za hraní a nezapomeň hádat dál! 🎉<br><br>
+    &copy; 2025 Wordle Classic!
+  </footer>
+
+</body>
+</html>
 
