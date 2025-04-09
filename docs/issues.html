@@ -4,8 +4,6 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Submit Feedback – Wordle Classic</title>
-  <script defer src="https://www.gstatic.com/firebasejs/10.8.0/firebase-app-compat.js"></script>
-  <script defer src="https://www.gstatic.com/firebasejs/10.8.0/firebase-firestore-compat.js"></script>
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -72,6 +70,10 @@
     <p class="success" id="successMsg" style="display:none;">✅ Submitted successfully!</p>
   </form>
 
+  <!-- ✅ Load Firebase *before* inline script -->
+  <script src="https://www.gstatic.com/firebasejs/10.8.0/firebase-app-compat.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/10.8.0/firebase-firestore-compat.js"></script>
+
   <script>
     // Firebase configuration
     const firebaseConfig = {
@@ -84,6 +86,7 @@
       measurementId: "G-XPY6ZY1RHX"
     };
 
+    // ✅ Initialize Firebase
     firebase.initializeApp(firebaseConfig);
     const db = firebase.firestore();
 
