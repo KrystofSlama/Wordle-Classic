@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Report an Issue – Wordle</title>
+  <title>Submit Feedback – Wordle Classic</title>
   <script defer src="https://www.gstatic.com/firebasejs/10.8.0/firebase-app-compat.js"></script>
   <script defer src="https://www.gstatic.com/firebasejs/10.8.0/firebase-firestore-compat.js"></script>
   <style>
@@ -49,38 +49,39 @@
   </style>
 </head>
 <body>
-  <h1>📝 Report an Issue</h1>
-  <p>Found a bug? Have a word suggestion or improvement idea? Submit it here!</p>
+  <h1>📝 Submit Feedback or Suggest a Word</h1>
+  <p>Found a bug? Have a word suggestion or an idea to improve the game? Let us know below!</p>
 
   <form id="issueForm">
-    <label for="type">Type of Issue</label>
+    <label for="type">Type of Feedback</label>
     <select id="type" required>
       <option value="">-- Select --</option>
-      <option value="Bug">🐞 Bug</option>
+      <option value="Bug">🐞 Bug Report</option>
       <option value="Word Suggestion">💬 Word Suggestion</option>
       <option value="Word Report">❌ Word Report</option>
       <option value="Other">📌 Other</option>
     </select>
 
     <label for="title">Title</label>
-    <input type="text" id="title" placeholder="Short summary..." required />
+    <input type="text" id="title" placeholder="Short title..." required />
 
     <label for="description">Description</label>
-    <textarea id="description" rows="5" placeholder="Explain what's happening..." required></textarea>
+    <textarea id="description" rows="5" placeholder="Describe the issue or suggestion..." required></textarea>
 
-    <button type="submit">Submit Issue</button>
-    <p class="success" id="successMsg" style="display:none;">✅ Issue submitted successfully!</p>
+    <button type="submit">Submit</button>
+    <p class="success" id="successMsg" style="display:none;">✅ Submitted successfully!</p>
   </form>
 
   <script>
-    // TODO: Replace with your Firebase config
+    // Firebase configuration
     const firebaseConfig = {
-      apiKey: "YOUR_API_KEY",
-      authDomain: "YOUR_PROJECT_ID.firebaseapp.com",
-      projectId: "YOUR_PROJECT_ID",
-      storageBucket: "YOUR_PROJECT_ID.appspot.com",
-      messagingSenderId: "SENDER_ID",
-      appId: "APP_ID"
+      apiKey: "AIzaSyAB8QzovJrttXG2p84aARuMO3w2lXVU93U",
+      authDomain: "wordle-d313c.firebaseapp.com",
+      projectId: "wordle-d313c",
+      storageBucket: "wordle-d313c.firebasestorage.app",
+      messagingSenderId: "658242356870",
+      appId: "1:658242356870:web:65b1c435b4af9177f33307",
+      measurementId: "G-XPY6ZY1RHX"
     };
 
     firebase.initializeApp(firebaseConfig);
@@ -104,7 +105,7 @@
         successMsg.style.display = "block";
         form.reset();
       } catch (err) {
-        alert("❌ Error submitting issue: " + err.message);
+        alert("❌ Error submitting feedback: " + err.message);
       }
     });
   </script>
