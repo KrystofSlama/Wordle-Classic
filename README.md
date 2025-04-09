@@ -23,7 +23,7 @@ Got a word you want added? Found a word that shouldn’t be there?
 We’d love to hear from you!
 
 **🗨️ Feedback options:**
-- Open an issue here on GitHub: [Create an Issue](issues.md)
+- Open an issue here on GitHub: [Create an Issue](issues.html)
 - Or contact: **krystof.slamacek@gmail.com**
 
 ---
