@@ -17,7 +17,7 @@ Wordle Classic is a clean and relaxing word game where your goal is to guess a h
 
 
 ### ScreenShots
-![Main Menu](screenshots/main.png) ![Game](screenshots/game.png) ![Options](screenshots/options.png) 
+![Main Menu](screenshots/main.PNG) ![Game](screenshots/game.png) ![Options](screenshots/options.png) 
 ---
 
 ## 🛠️ Roadmap (Coming Soon)
