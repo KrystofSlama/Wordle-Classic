@@ -1,4 +1,4 @@
-# 🎮 Wordle Classic! – Official Support Page
+# 🎮 Wordle Classic!
 
 Welcome to the support and info page for **Wordle Classic!**, the fun, minimalist word-guessing game inspired by the original Wordle – now with support for both **Czech 🇨🇿** and **English 🇬🇧**.
 
@@ -49,7 +49,6 @@ We’d love to hear from you!
 - **App Name:** Wordle Classic!  
 - **Platform:** iOS  
 - **Version:** 1.0  
-- **Available on the App Store:** _Coming soon_
 
 ---
 
