@@ -1,6 +1,6 @@
 # 🎮 Wordle Classic!
 
-Some part of the game was deleted here after downloading you will need to edit some part mainly in optionsView to make it work.
+Some part of the game was deleted here -> after cloning you will need to edit some part, mainly in optionsView to make it work.
 
 ## 🧩 What is Wordle Classic?
 
