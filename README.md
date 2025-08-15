@@ -1,5 +1,7 @@
 # 🎮 Wordle Classic!
 
+Some part of the game was deleted here after downloading you will need to edit some part mainly in optionsView to make it work.
+
 ## 🧩 What is Wordle Classic?
 
 Wordle Classic is a clean and relaxing word game where your goal is to guess a hidden word within a limited number of attempts.
